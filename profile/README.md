@@ -71,7 +71,7 @@
 <td align="center" width="33%">
 <img src="https://github.com/SoTaeHo.png" width="120" height="120" style="border-radius: 50%;">
 <br/>
-<b>👑 소태호 👑/b>
+<b>👑 소태호 👑</b>
 <br/>
 <i>Backend</i>
 <br/>
